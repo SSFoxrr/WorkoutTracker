@@ -40,4 +40,4 @@ Here's how you would interact with the script:
 
 ## File Structure
 
-- `WorkoutStorage.txt`: This file is created in the same directory as the script to store workout data. It's formatted as:
+- `WorkoutStorage.txt`: This file is created in the same directory as the script to store workout data.
