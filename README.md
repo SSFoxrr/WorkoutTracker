@@ -8,16 +8,16 @@ This Python script is designed to help you keep track of your daily workouts. He
 - **View Last Workout**: Check what your most recent workout was.
 - **Find Workout by Date**: Retrieve the date of your last session for a specific workout.
 
-## How to Use
+ ## How to Use
 
 1. **Setup:**
    - Ensure you have Python installed on your system.
-   - Save this script in a directory where you want to keep your workout data.
+   - Save `main.py` and `WorkoutStorage.txt` (an empty text file) in the same directory where you want to keep your workout data.
 
 2. **Running the Script:**
    - Open a terminal, navigate to the directory with the script, and run:
      ```
-     python workout_tracker.py
+     python main.py
      ```
 
 3. **Commands:**
